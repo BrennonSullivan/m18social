@@ -1,5 +1,23 @@
-# Social Networking API 👋</h1>
-
+<h1 align="center"> Social Networking API 👋</h1>
+  
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/BrennonSullivan/m19social" />
+    <img src="https://img.shields.io/github/languages/top/BrennonSullivan/m19social"  />
+    <img src="https://img.shields.io/github/issues/BrennonSullivan/m19social" />
+    <img src="https://img.shields.io/github/last-commit/BrennonSullivan/m19social" >
+    <a href="https://github.com/BrennonSullivan"><img src="https://img.shields.io/github/followers/BrennonSullivan?style=social" target="_blank" /></a>
+    </a>
+</p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/javascript-yellow" />
+    <img src="https://img.shields.io/badge/express-orange" />
+    <img src="https://img.shields.io/badge/MongoDB-blue"  />
+    <img src="https://img.shields.io/badge/mongoose-red"  />
+    <img src="https://img.shields.io/badge/moment-blue"  />
+    <img src="https://img.shields.io/badge/nodemon-green" />
+</p>
+   
 ## Description
 
 🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
@@ -31,16 +49,15 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
    
 ## Table of Contents
-- [Social Networking API 👋</h1>](#social-networking-api-h1)
-  - [Description](#description)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-  - [Contributing](#contributing)
-  - [Questions](#questions)
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 ## Installation
 💾   
@@ -64,7 +81,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Brennon Sullivan](https://github.com/BrennonSullivan)
+:octocat: [Joseph DeWoody](https://github.com/BrennonSullivan)
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:brennsullivan2@gmail.com) , [GitHub](https://github.com/BrennonSullivan)<br />
