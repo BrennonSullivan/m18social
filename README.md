@@ -1,7 +1,6 @@
 <h1 align="center"> Social Networking API 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/BrennonSullivan/m19social" />
     <img src="https://img.shields.io/github/languages/top/BrennonSullivan/m19social"  />
     <img src="https://img.shields.io/github/issues/BrennonSullivan/m19social" />
     <img src="https://img.shields.io/github/last-commit/BrennonSullivan/m19social" >
@@ -81,7 +80,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/BrennonSullivan)
+:octocat: [Brennon Sullivan](https://github.com/BrennonSullivan)
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:brennsullivan2@gmail.com) , [GitHub](https://github.com/BrennonSullivan)<br />
